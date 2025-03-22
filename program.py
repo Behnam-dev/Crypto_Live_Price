@@ -17,8 +17,3 @@ for i in range(10):
 
 data = DataFrame({"Currency": names, "Price": prices})
 print(data)
-
-
-
-
-
